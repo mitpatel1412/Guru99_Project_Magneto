@@ -65,6 +65,7 @@ public class MobilePageTest extends TestBase {
 		String sonyExpPriceInGridPage = mobilePage.sonyExpPriceInGridPage();
 		mobilePage.listView();
 		String sonyExpPriceInListPage = mobilePage.sonyExpPriceInListPage();
+		System.out.println(sonyExpPriceInListPage);
 		Assert.assertEquals(sonyExpPriceInGridPage, sonyExpPriceInGridPage);
 	}
 
