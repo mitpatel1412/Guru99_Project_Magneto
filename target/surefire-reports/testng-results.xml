@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-11T04:42:37Z" name="Surefire suite" finished-at="2022-01-11T04:42:47Z" duration-ms="10317">
+    <groups>
+    </groups>
+    <test started-at="2022-01-11T04:42:37Z" name="Surefire test" finished-at="2022-01-11T04:42:47Z" duration-ms="10317">
+      <class name="com.magneto.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.magneto.qa.testcases.HomePageTest@3e92efc3]" started-at="2022-01-11T04:42:43Z" name="setUp" finished-at="2022-01-11T04:42:47Z" duration-ms="3764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTitle()[pri:1, instance:com.magneto.qa.testcases.HomePageTest@3e92efc3]" started-at="2022-01-11T04:42:47Z" name="verifyHomePageTitle" finished-at="2022-01-11T04:42:47Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.magneto.qa.testcases.HomePageTest@3e92efc3]" started-at="2022-01-11T04:42:47Z" name="tearDown" finished-at="2022-01-11T04:42:47Z" duration-ms="517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.magneto.qa.testcases.HomePageTest -->
+      <class name="com.magneto.qa.testcases.MobilePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.magneto.qa.testcases.MobilePageTest@703580bf]" started-at="2022-01-11T04:42:37Z" name="setUp" finished-at="2022-01-11T04:42:42Z" duration-ms="5380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyMobilePageTitle()[pri:1, instance:com.magneto.qa.testcases.MobilePageTest@703580bf]" started-at="2022-01-11T04:42:42Z" name="verifyMobilePageTitle" finished-at="2022-01-11T04:42:42Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMobilePageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.magneto.qa.testcases.MobilePageTest@703580bf]" started-at="2022-01-11T04:42:42Z" name="tearDown" finished-at="2022-01-11T04:42:43Z" duration-ms="631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.magneto.qa.testcases.MobilePageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

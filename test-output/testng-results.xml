@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-10T23:51:04 EST" name="Default suite" finished-at="2022-01-10T23:51:11 EST" duration-ms="7038">
+    <groups>
+    </groups>
+    <test started-at="2022-01-10T23:51:04 EST" name="Default test" finished-at="2022-01-10T23:51:11 EST" duration-ms="7038">
+      <class name="com.magneto.qa.testcases.MobilePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.magneto.qa.testcases.MobilePageTest@34f5090e]" started-at="2022-01-10T23:51:04 EST" name="setUp" finished-at="2022-01-10T23:51:10 EST" duration-ms="6206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySonyExperiaPrice()[pri:4, instance:com.magneto.qa.testcases.MobilePageTest@34f5090e]" started-at="2022-01-10T23:51:10 EST" name="verifySonyExperiaPrice" finished-at="2022-01-10T23:51:11 EST" duration-ms="803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySonyExperiaPrice -->
+      </class> <!-- com.magneto.qa.testcases.MobilePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

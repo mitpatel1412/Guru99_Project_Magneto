@@ -1,0 +1,4 @@
+com/magneto/qa/pages/HomePage.class
+com/magneto/qa/pages/MobilePage.class
+com/magneto/qa/base/TestBase.class
+com/magneto/qa/util/TestUtil.class
